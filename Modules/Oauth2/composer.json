@@ -1,0 +1,39 @@
+{
+    "name": "altrpaid/oauth2-module",
+    "type": "laravel-module",
+    "description": "Plugin for oauth2 authentication",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "AkimovIgor",
+            "email": "akimovigor5417@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Oauth2\\Providers\\Oauth2ServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Oauth2\\": ""
+        }
+    },
+    "require": {
+        "doctrine/dbal": "^2.10",
+        "laravel/socialite": "^5.0",
+        "socialiteproviders/yandex": "^4.0",
+        "socialiteproviders/laravelpassport": "^4.0",
+        "socialiteproviders/discord": "^4.0",
+        "socialiteproviders/instagram": "^4.0",
+        "socialiteproviders/vkontakte": "^4.2",
+        "coderello/laravel-passport-social-grant": "^3.0",
+        "lcobucci/jwt": "3.4"
+    }
+}

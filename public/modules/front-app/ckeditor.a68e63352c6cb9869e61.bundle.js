@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[8230],{1652:function(i,n,s){"use strict";s.r(n);var w=s(72757),o=s(80467),r=s.n(o);(window.altrpLibs=window.altrpLibs||{}).skEditor=w,(window.altrpLibs=window.altrpLibs||{}).BalloonEditor=r()}}]);
+//# sourceMappingURL=ckeditor.a68e63352c6cb9869e61.bundle.js.map

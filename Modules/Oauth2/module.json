@@ -1,0 +1,14 @@
+{
+    "name": "Oauth2",
+    "alias": "oauth2",
+    "image": "/modules/oauth2/img/dev_oauth_badge.png",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Oauth2\\Providers\\Oauth2ServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

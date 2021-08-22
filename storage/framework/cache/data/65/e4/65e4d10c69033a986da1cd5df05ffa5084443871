@@ -1,0 +1,1 @@
+1629617465a:1:{i:0;a:8:{s:2:"id";i:2;s:4:"name";s:10:"department";s:12:"display_name";s:22:"департамент";s:11:"description";N;s:10:"created_at";s:19:"2021-08-21 09:34:59";s:10:"updated_at";s:19:"2021-08-21 09:34:59";s:5:"pivot";a:2:{s:7:"user_id";i:3;s:7:"role_id";i:2;}s:15:"notice_settings";a:0:{}}}
